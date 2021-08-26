@@ -99,7 +99,7 @@ main {
 }
 
 form {
-	margin: 40px 0;
+	margin: 40px auto;
 }
 
 form label, form legend {
